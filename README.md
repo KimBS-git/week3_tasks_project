@@ -1,16 +1,21 @@
-# week3_project
+######이것은 3주차 개인 프로젝트입니다.######
 
-A new Flutter project.
+Tasks 앱으로 할 일 목록을 만들고 관리할 수 있습니다.
 
-## Getting Started
+ (assets/home.png)
+ 1. 앱의 홈 화면입니다.
+ 2. 할 일 목록이 비어있을 때 나타납니다.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ (aseets/todolist.png)
+ 1. 할 일을 추가했을 때 화면입니다.
+ 2. 즐겨찾기 등록을 할 수 있고 완료 표시가 가능합니다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ (assets/desciption.png)
+ 1. 할 일을 길게 터치하면 description 화면으로 이동합니다.
+ 2. 할 일을 추가할 때 작성한 세부 내용을 확인할 수 있습니다.
+
+
+ (assets/delete.png)
+ 1. 할 일을 길게 누르면 삭제할 수 있습니다.
